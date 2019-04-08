@@ -1,0 +1,4 @@
+api_path:
+    type: rest
+    resource: "@AppBundle/Controller/PathController.php"
+    name_prefix:  api_path_
